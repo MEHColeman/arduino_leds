@@ -14,3 +14,9 @@ Once the lights have changed do the rainbow colour, you can actually detach the
 arduino, and they will stay the same colour until they are switched off.
 However, I keep mine attached, as they are on a timer plug and switch off every
 night.
+
+## Installation
+Just copy and paste this into the arduino IDE, compile and run. As an extra
+check, if the program is running correctly, the little LED on the arduino
+should pulse slowly.
+
